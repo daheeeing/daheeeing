@@ -1,8 +1,7 @@
 <!-- https://simpleicons.org -->
 <div align="center">
-### :손인사::피부톤_2: Hi I'm Park Da Hee :새싹:
-<br>
-#### :망치와_렌치: Tech Stack :책:
+<h3> Hi I'm Park Da Hee :) </h3>
+<h3> Tech Stack </h3>
 
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
