@@ -1,6 +1,6 @@
 <!-- https://simpleicons.org -->
 <div align="center">
-<h3> Hi I'm Park Da Hee :) </h3>
+<h3> Hi I'm Da Hee Park :) </h3>
 <h3> Tech Stack </h3>
 
 <br>
